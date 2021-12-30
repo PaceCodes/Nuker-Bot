@@ -31,13 +31,13 @@ const settings = {
     "clean_channel_name": "what shold channel name to be after %clean command",
     "clean_server_icon": "",
     "clean_server_name": "what shold server name to be after %clean command",
-    "help_embed_message": "Hello retard, here is the commands that you fucking need:",
+    "help_embed_message": "Hello, here are the commands that you need:",
     "help_embed_title": "Best bot!",
     "help_embed_description": `
     %explode: SERVER GO BOOM
-    %clean: clean this shitty mess, (do not use if not testing)
+    %clean: clean this mess, (do not use if not testing)
     %admin: give yourself admin if you need one
-    %help: the fucking command you just ran right now`,
+    %help: the command you just ran right now`,
     "nuke_command": "%explode",
     "clean_command": "%clean",
     "give_admin_command": "%admin",
