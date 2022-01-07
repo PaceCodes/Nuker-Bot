@@ -1,5 +1,5 @@
 # Nuker-Bot
-This is a nuker bot (only for educational purposes)
+This is a nuker bot works on discord (only for educational purposes). See the updated version [here](https://github.com/PaceCodes/Nuker-Bot/tree/modern)!
 
 
 # IMPORTANT:
